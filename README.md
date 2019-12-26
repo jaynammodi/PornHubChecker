@@ -30,7 +30,7 @@
 ## HOW TO USE!!
 * Open a Terminal & Run `pkg update && pkg upgrade && pkg install git && pkg install curl`
 * Next, Run `git clone https://github.com/VoldemortCommunity/PornHubChecker`
-* Navigate to the Newly Created SpotifyChecker Directory using `cd PornHubChecker`
+* Navigate to the Newly Created PornHubChecker Directory using `cd PornHubChecker`
 * The Program has Now been Installed and Can be Run!!
 * To Start the Program Use `php checker`
 * Follow the Instructions!
